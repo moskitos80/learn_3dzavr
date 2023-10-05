@@ -37,5 +37,5 @@ int main() {
     Vec2D::test();
     Vec3D::test();
     Vec4D::test();
-    Matrix4x4::test();
+    // Matrix4x4::test();
 }

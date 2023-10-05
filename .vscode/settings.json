@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.asm": "asm-collection",
+        "*.c": "c",
+        "*.html": "html",
+        "array": "cpp",
+        "random": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++"
+}
